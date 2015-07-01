@@ -1,0 +1,59 @@
+================================================================
+Title                   : Skotos' Revenge
+Filename                : SKOTOS.RTL
+Author                  : riki
+Email Address           : riki.catboy@gmail.com
+Misc. Author Info       : Steam: riki-xenon
+                          YouTube: youtube.com/riki9999
+                          Tumblr: ianchips.tumblr.com
+
+Description             : 6 elaborately-crafted single-player
+                          ROTT95 levels.
+
+Additional Credits to   : Apogee, Interceptor, Cody Ellsworth
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1A1-E1A6
+Single Player           : Yes
+Comm-Bat Level          : No
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : ROTT Mapper Deluxe
+                          (Now freeware, but won't work on 64-bit
+                          Windows; it's a 16-bit Windows 3 app I think)
+Known Bugs              : Let me know if you find any.
+                          These levels seem to push the limits of the
+                          game engine, though.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You may do whatever you want with this file.
+
+* Where to get this RTL *
+
+Latest version: https://github.com/rikithedreamer/skotosrevenge
+
+Mirror: https://goo.gl/CQPfZ1
+
+* Installation *
+
+Non-Steam users:
+- Extract into your ROTT95 directory.
+- Type in SKOTOS at the command prompt.
+
+Steam (3D Realms Anthology) users:
+- Extract into your ROTT95 directory.
+- Launch "Rise of the Triad: Dark War"
+- Select #4 (Setup)
+- Select "Use Modified Stuff"
+- Select "Choose Alternate Game Levels"
+- Select "SKOTOS.RTL"
+- Go back to the main menu
+- Select "Save and Run ROTT"
