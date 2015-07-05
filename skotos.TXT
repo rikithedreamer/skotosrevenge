@@ -36,6 +36,8 @@ Authors MAY use this level as a base to build additional levels.
 
 You may do whatever you want with this file.
 
+In any case, give me due credit if you do anything with it.
+
 * Where to get this RTL *
 
 Latest version: https://github.com/rikithedreamer/skotosrevenge
